@@ -8,6 +8,7 @@ Combino mi experiencia en traducción literaria y técnica con tecnologías de I
 
 ## 🎓 Formación
 
+- **IX Máster en Traducción y Localización de Videojuegos [EN - ES]** - Instituto superior de estudios lingüísticos y traducción (ISTRAD)
 - **Máster en Traducción e Interculturalidad** - Universidad de Sevilla
 - **Grado en Estudios Ingleses** - Universidad de Sevilla
 
@@ -30,6 +31,84 @@ Combino mi experiencia en traducción literaria y técnica con tecnologías de I
 - **[Machine Learning Specialization](https://github.com/ncalvente/Machine_Learning_Specialization_Project)** (11 proyectos)
 - **[Generative AI for Software Development](https://github.com/ncalvente/Generative_AI_for_Software_Development_Project)** (4 proyectos)
 
+## 🎓 Certificaciones y Cursos
+
+### 🏆 Certificaciones Principales
+
+- **Generative AI for Software Development** - DeepLearning.AI
+- **Machine Learning Specialization** - DeepLearning.AI
+- **Deep Learning Specialization** - DeepLearning.AI
+- **Natural Language Processing Specialization**
+  - Natural Language Processing with Classification and Vector Spaces
+  - Natural Language Processing with Attention, Sequence and Probabilistic Models
+  - DeepLearning.AI
+- **Mastering NLP: Tokenization, Sentiment Analysis & Neural MT Specialization**
+  - Natural Language Processing Essentials
+  - Advanced Tokenization and Sentiment Analysis
+  - Neural Models and Machine Translation
+  - Edureka
+- **PyTorch for Deep Learning** - DeepLearning.AI
+
+### 📚 Cursos Especializados
+
+#### Traducción y Localización
+*Trágora Formación Spin-Off, Universidad de Granada (UGR)*
+- Fraseología para Traductores EN>ES
+- Testing Lingüístico de Videojuegos
+- Especialista en Traducción y Localización de Videojuegos EN>ES
+- Traducción Audiovisual: Guiones de Doblaje y Voice-Over EN>ES
+- Traducción para Plataformas VOD
+- Especialista en Corrección y Edición de Textos
+
+#### Inteligencia Artificial y Machine Learning
+- **Generative AI for Everyone** - DeepLearning.AI
+- **Generative AI: Prompt Engineering Basics** - IBM
+- **Generative AI with LLMs** - DeepLearning.AI
+- **Building and Evaluating Advanced RAG Applications** - DeepLearning.AI
+- **LangChain for LLM Application Development** - DeepLearning.AI
+- **Fine-tuning Large Models** - DeepLearning.AI
+- **Evaluating and Mitigating Bias in LLMs** - DeepLearning.AI
+
+#### Programación y Desarrollo
+- **Programming with JavaScript** - Meta
+- **React Basics** - Meta
+- **Programming in Python** - Meta
+- **Django Web Framework** - Meta
+
+#### Ciencia de Datos
+- **APIs** - Meta
+- **Python for Data Science, AI and Development** - IBM
+- **Databases and SQL for Data Science** - IBM
+- **Generative AI: Elevate your Data Engineering Career** - IBM
+
+#### Desarrollo Profesional
+- **Técnicas de Negociación** - CEOE Empresas Españolas EdeNE
+- **Formación Profesional para la Enseñanza del Empleo** - SEPE
+
+## 🛠️ Habilidades Técnicas
+
+**Inteligencia Artificial & Machine Learning**
+- Deep Learning, Neural Networks, CNN, RNN, Transformers
+- NLP, Sentiment Analysis, Machine Translation
+- Generative AI, LLMs (ChatGPT, LangChain)
+- RAG Applications, Prompt Engineering
+- PyTorch, TensorFlow, Keras
+
+**Programación**
+- Python, JavaScript, SQL
+- React, Django
+- Git, GitHub
+- Jupyter Notebook
+
+**Traducción & Localización**
+- Traducción Literaria (EN>ES)
+- Localización de Videojuegos
+- Traducción Audiovisual (Doblaje, VOD)
+- Testing Lingüístico
+- Corrección y Edición
+- DeepL, ChatGPT, Herramientas TAO
+
+  
 ## 📊 Estadísticas
 
 - 🎯 **53 proyectos** de Machine Learning y Deep Learning
