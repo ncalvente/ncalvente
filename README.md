@@ -1,4 +1,4 @@
-# 👋 Hola, soy Noelia Calvente García
+# 👋 Hola, soy Noelia Calvente
 
 **Traductora Profesional | Especialista en IA y Machine Learning | Investigadora en Traducción con IA**
 
