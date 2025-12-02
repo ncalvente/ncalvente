@@ -129,6 +129,5 @@ Combino mi experiencia en traducción literaria y técnica con tecnologías de I
 - 📄 [CV Completo](https://github.com/ncalvente/Noelia_Calvente_CV)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncalvente&show_icons=true&theme=radical)
 
 ⭐ Si te interesan mis proyectos, ¡no dudes en darles una estrella!
